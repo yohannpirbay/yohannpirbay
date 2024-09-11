@@ -9,40 +9,32 @@ I am a third-year Computer Science student at King's College London with a passi
 I am always eager to learn and grow, driven by a desire to make digital spaces safer and help others develop their security knowledge. I'm currently looking for graduate roles in security engineering and consultancy to further expand my expertise and make a meaningful impact in the field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection Lab|
-| Firewall Configuration | Detection La|
-| Active Directory Management         | SOC Automation Lab|
-| Vulnerability Assessment     | SOC Automation Lab|
-| DFIR                  | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Cybersecurity Home Lab|
+| Firewall Configuration | Cybersecurity Home Lab|
+| Active Directory Management         | Cybersecurity Home Lab|
+| Vulnerability Assessment     | Cybersecurity Home Lab|
+| DFIR                  | Cybersecurity Home Lab|
 | File Encryption and Decryption                 | <a href="https://github.com/yohannpirbay/File-Encryption-Decryption">File Encryption App</a>|
 | Password Generator                 | <a href="https://github.com/yohannpirbay/password_generator">Password Generator App</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-3C5B5B?&style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-000000?&style=for-the-badge&logo=nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2A1A1F?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-000000?&style=for-the-badge&logo=volatility&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C8C?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-1C1C1C?&style=for-the-badge&logo=sysmon&logoColor=white" />
 </div>
+
+
 
 ## Certifications
 <div>
@@ -50,5 +42,6 @@ I am always eager to learn and grow, driven by a desire to make digital spaces s
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Cybersecurity Home Lab
+- File Encryption App
+- Password Generator App
