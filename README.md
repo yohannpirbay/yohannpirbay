@@ -13,11 +13,13 @@ I am always eager to learn and grow, driven by a desire to make digital spaces s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Firewall Configuration | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | Detection Lab|
+| Firewall Configuration | Detection La|
 | Active Directory Management         | SOC Automation Lab|
 | Vulnerability Assessment     | SOC Automation Lab|
 | DFIR                  | SOC Automation Lab|
+| File Encryption and Decryption                 | <a href="https://github.com/yohannpirbay/File-Encryption-Decryption">File Encryption App</a>|
+| Password Generator                 | <a href="https://github.com/yohannpirbay/password_generator">Password Generator App</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -43,13 +45,8 @@ I am always eager to learn and grow, driven by a desire to make digital spaces s
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
